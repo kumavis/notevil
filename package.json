@@ -23,7 +23,7 @@
     "url": "https://github.com/mmckegg/notevil/issues"
   },
   "dependencies": {
-    "esprima": "~1.0",
+    "esprima": "~3.1.1",
     "hoister": "~0.0"
   },
   "devDependencies": {
